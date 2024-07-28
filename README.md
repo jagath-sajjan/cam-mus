@@ -14,9 +14,13 @@ This repository contains a Python script that uses OpenCV and MediaPipe to track
 ### Requirements
 
 | Package | Version |
+>
 | Python | 3.6+ |
+>
 | OpenCV | 4.5+ |
+>
 | MediaPipe | 0.8+ |
+>
 | PyAutoGUI | 0.9+ |
 
 ### Installation
