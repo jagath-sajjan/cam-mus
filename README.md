@@ -26,9 +26,9 @@ This repository contains a Python script that uses OpenCV and MediaPipe to track
 ### Installation
 
 Step 1: ```git clone https://github.com/jagathsajjan/cam-mus.git```
-#
+>
 Step 2: ```cd cam-mus```
-#
+>
 Step 3: ```pip install -r requirements.txt```
 
 ### Usage
@@ -42,7 +42,9 @@ Step 3: ```pip install -r requirements.txt```
 ### Features
 
 -> Hand tracking using MediaPipe
+>
 -> Mouse control using PyAutoGUI
+>
 -> Adjustable sensitivity
 
 ### Contributing
