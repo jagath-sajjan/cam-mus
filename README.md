@@ -33,6 +33,7 @@ Step 3: ```pip install -r requirements.txt```
 
 ### Usage
 
+0. Change The Video Capture Function According To The Cam You Wanna Use.
 1. Run the script: python main.py
 2. The script will open a window displaying the webcam feed.
 3. Move your hand in front of the webcam to control the mouse cursor.
