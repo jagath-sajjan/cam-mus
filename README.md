@@ -9,7 +9,7 @@ This repository contains a Python script that uses OpenCV and MediaPipe to track
 
 ### Support the developer
 
-<a href="https://www.buymeacoffee.com/jagathsajjan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/jagathsajjan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### Requirements
 
@@ -56,4 +56,4 @@ MIT License
 
 ### Author
 
-[jagathsajjan]
+<a href="https://github.com/jagath-sajjan" target="_blank"> JAGATH SAJJAN </a>
